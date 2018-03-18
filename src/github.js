@@ -98,7 +98,7 @@ async function getNumPages(page) {
 
 function upsertUser(userObj) {
 	
-	const DB_URL = 'mongodb://localhost/thal';
+	const DB_URL = 'mongodb://localhost/fun-puppeteer';
 
   	if (mongoose.connection.readyState == 0) { mongoose.connect(DB_URL); }
 
