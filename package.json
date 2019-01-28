@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,10 @@
   },
   "homepage": "https://github.com/ZvezdocheTag/fun-puppeteer#readme",
   "dependencies": {
+    "ccxt": "^1.16.51",
+    "express": "^4.16.3",
+    "fs-extra": "^7.0.0",
     "mongoose": "^5.0.10",
-    "puppeteer": "^1.2.0"
+    "puppeteer": "^1.8.0"
   }
 }

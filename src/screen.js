@@ -6,7 +6,7 @@ const { assets } = require('../config.default');
     headless: false
   });
   const page = await browser.newPage();
-  await page.goto('https://medium.com', {waitUntil: 'networkidle2'});
+  await page.goto('http://localhost:3000/login', {waitUntil: 'networkidle2'});
   await page.screenshot({path: `${assets.dist}/example.png` });
 
   const dimensions = await page.evaluate(() => {

@@ -1,0 +1,1447 @@
+{
+    "inlineStyle": {
+        "styleSheetId": "14744.42",
+        "cssProperties": [],
+        "shorthandEntries": [],
+        "cssText": "",
+        "range": {
+            "startLine": 0,
+            "startColumn": 0,
+            "endLine": 0,
+            "endColumn": 0
+        }
+    },
+    "matchedCSSRules": [{
+        "rule": {
+            "selectorList": {
+                "selectors": [{
+                    "text": "ul"
+                }, {
+                    "text": "menu"
+                }, {
+                    "text": "dir"
+                }],
+                "text": "ul, menu, dir"
+            },
+            "origin": "user-agent",
+            "style": {
+                "cssProperties": [{
+                    "name": "display",
+                    "value": "block"
+                }, {
+                    "name": "list-style-type",
+                    "value": "disc"
+                }, {
+                    "name": "-webkit-margin-before",
+                    "value": "1em"
+                }, {
+                    "name": "-webkit-margin-after",
+                    "value": "1em"
+                }, {
+                    "name": "-webkit-margin-start",
+                    "value": "0px"
+                }, {
+                    "name": "-webkit-margin-end",
+                    "value": "0px"
+                }, {
+                    "name": "-webkit-padding-start",
+                    "value": "40px"
+                }],
+                "shorthandEntries": []
+            },
+            "media": []
+        },
+        "matchingSelectors": [0]
+    }, {
+        "rule": {
+            "styleSheetId": "14744.1",
+            "selectorList": {
+                "selectors": [{
+                    "text": "*",
+                    "range": {
+                        "startLine": 0,
+                        "startColumn": 0,
+                        "endLine": 0,
+                        "endColumn": 1
+                    }
+                }],
+                "text": "*"
+            },
+            "origin": "regular",
+            "style": {
+                "styleSheetId": "14744.1",
+                "cssProperties": [{
+                    "name": "box-sizing",
+                    "value": "border-box",
+                    "implicit": false,
+                    "text": "box-sizing: border-box;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "endLine": 1,
+                        "endColumn": 27
+                    }
+                }],
+                "shorthandEntries": [],
+                "cssText": "\r\n    box-sizing: border-box;\r\n",
+                "range": {
+                    "startLine": 0,
+                    "startColumn": 3,
+                    "endLine": 2,
+                    "endColumn": 0
+                }
+            },
+            "media": []
+        },
+        "matchingSelectors": [0]
+    }, {
+        "rule": {
+            "styleSheetId": "14744.1",
+            "selectorList": {
+                "selectors": [{
+                    "text": ".list",
+                    "range": {
+                        "startLine": 116,
+                        "startColumn": 0,
+                        "endLine": 116,
+                        "endColumn": 5
+                    }
+                }, {
+                    "text": ".tab",
+                    "range": {
+                        "startLine": 117,
+                        "startColumn": 0,
+                        "endLine": 117,
+                        "endColumn": 4
+                    }
+                }],
+                "text": ".list, .tab"
+            },
+            "origin": "regular",
+            "style": {
+                "styleSheetId": "14744.1",
+                "cssProperties": [{
+                    "name": "display",
+                    "value": "flex",
+                    "implicit": false,
+                    "text": "display: flex;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "endLine": 118,
+                        "endColumn": 18
+                    }
+                }, {
+                    "name": "list-style",
+                    "value": "none",
+                    "implicit": false,
+                    "text": "list-style: none;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "endLine": 119,
+                        "endColumn": 21
+                    }
+                }, {
+                    "name": "width",
+                    "value": "50%",
+                    "implicit": false,
+                    "text": "width: 50%;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "endLine": 120,
+                        "endColumn": 15
+                    }
+                }, {
+                    "name": "justify-content",
+                    "value": "space-between",
+                    "implicit": false,
+                    "text": "justify-content: space-between;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "endLine": 121,
+                        "endColumn": 35
+                    }
+                }, {
+                    "name": "padding-left",
+                    "value": "0",
+                    "implicit": false,
+                    "text": "padding-left: 0;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "endLine": 122,
+                        "endColumn": 20
+                    }
+                }, {
+                    "name": "padding-left",
+                    "value": "60px",
+                    "implicit": false,
+                    "text": "padding-left: 60px;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "endLine": 123,
+                        "endColumn": 23
+                    }
+                }, {
+                    "name": "position",
+                    "value": "relative",
+                    "implicit": false,
+                    "text": "position: relative;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "endLine": 124,
+                        "endColumn": 23
+                    }
+                }, {
+                    "name": "list-style-type",
+                    "value": "none"
+                }, {
+                    "name": "list-style-position",
+                    "value": "initial"
+                }, {
+                    "name": "list-style-image",
+                    "value": "initial"
+                }],
+                "shorthandEntries": [{
+                    "name": "list-style",
+                    "value": "none"
+                }],
+                "cssText": "\r\n    display: flex;\r\n    list-style: none;\r\n    width: 50%;\r\n    justify-content: space-between;\r\n    padding-left: 0;\r\n    padding-left: 60px;\r\n    position: relative;\r\n",
+                "range": {
+                    "startLine": 117,
+                    "startColumn": 6,
+                    "endLine": 125,
+                    "endColumn": 0
+                }
+            },
+            "media": []
+        },
+        "matchingSelectors": [0]
+    }, {
+        "rule": {
+            "styleSheetId": "14744.1",
+            "selectorList": {
+                "selectors": [{
+                    "text": ".list",
+                    "range": {
+                        "startLine": 127,
+                        "startColumn": 0,
+                        "endLine": 127,
+                        "endColumn": 5
+                    }
+                }],
+                "text": ".list"
+            },
+            "origin": "regular",
+            "style": {
+                "styleSheetId": "14744.1",
+                "cssProperties": [{
+                    "name": "padding-top",
+                    "value": "30px",
+                    "implicit": false,
+                    "text": "padding-top: 30px;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "endLine": 128,
+                        "endColumn": 22
+                    }
+                }, {
+                    "name": "padding-bottom",
+                    "value": "30px",
+                    "implicit": false,
+                    "text": "padding-bottom: 30px;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "endLine": 129,
+                        "endColumn": 25
+                    }
+                }, {
+                    "name": "margin",
+                    "value": "0",
+                    "implicit": false,
+                    "text": "margin: 0;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 130,
+                        "startColumn": 8,
+                        "endLine": 130,
+                        "endColumn": 18
+                    }
+                }, {
+                    "name": "margin-bottom",
+                    "value": "5px",
+                    "implicit": false,
+                    "text": "margin-bottom: 5px;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "endLine": 131,
+                        "endColumn": 23
+                    }
+                }, {
+                    "name": "margin-top",
+                    "value": "0px"
+                }, {
+                    "name": "margin-right",
+                    "value": "0px"
+                }, {
+                    "name": "margin-left",
+                    "value": "0px"
+                }],
+                "shorthandEntries": [{
+                    "name": "margin",
+                    "value": "0px 0px 5px"
+                }],
+                "cssText": "\r\n    padding-top: 30px;\r\n    padding-bottom: 30px;\r\n        margin: 0;\r\n    margin-bottom: 5px;\r\n",
+                "range": {
+                    "startLine": 127,
+                    "startColumn": 7,
+                    "endLine": 132,
+                    "endColumn": 0
+                }
+            },
+            "media": []
+        },
+        "matchingSelectors": [0]
+    }, {
+        "rule": {
+            "styleSheetId": "14744.1",
+            "selectorList": {
+                "selectors": [{
+                    "text": ".list",
+                    "range": {
+                        "startLine": 425,
+                        "startColumn": 4,
+                        "endLine": 425,
+                        "endColumn": 9
+                    }
+                }, {
+                    "text": ".tab",
+                    "range": {
+                        "startLine": 426,
+                        "startColumn": 4,
+                        "endLine": 426,
+                        "endColumn": 8
+                    }
+                }],
+                "text": ".list, .tab"
+            },
+            "origin": "regular",
+            "style": {
+                "styleSheetId": "14744.1",
+                "cssProperties": [{
+                    "name": "width",
+                    "value": "60%",
+                    "implicit": false,
+                    "text": "width: 60%;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 427,
+                        "startColumn": 8,
+                        "endLine": 427,
+                        "endColumn": 19
+                    }
+                }],
+                "shorthandEntries": [],
+                "cssText": "\r\n        width: 60%;\r\n    ",
+                "range": {
+                    "startLine": 426,
+                    "startColumn": 10,
+                    "endLine": 428,
+                    "endColumn": 4
+                }
+            },
+            "media": [{
+                "text": "(max-width: 1367px)",
+                "source": "mediaRule",
+                "sourceURL": "http://fronty.ru/main.css",
+                "range": {
+                    "startLine": 418,
+                    "startColumn": 7,
+                    "endLine": 418,
+                    "endColumn": 26
+                },
+                "styleSheetId": "14744.1",
+                "mediaList": [{
+                    "expressions": [{
+                        "value": 1367,
+                        "unit": "px",
+                        "feature": "max-width",
+                        "computedLength": 1367
+                    }],
+                    "active": true
+                }]
+            }]
+        },
+        "matchingSelectors": [0]
+    }, {
+        "rule": {
+            "styleSheetId": "14744.1",
+            "selectorList": {
+                "selectors": [{
+                    "text": ".list",
+                    "range": {
+                        "startLine": 459,
+                        "startColumn": 4,
+                        "endLine": 459,
+                        "endColumn": 9
+                    }
+                }],
+                "text": ".list"
+            },
+            "origin": "regular",
+            "style": {
+                "styleSheetId": "14744.1",
+                "cssProperties": [{
+                    "name": "display",
+                    "value": "none",
+                    "implicit": false,
+                    "text": "display: none;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 460,
+                        "startColumn": 8,
+                        "endLine": 460,
+                        "endColumn": 22
+                    }
+                }],
+                "shorthandEntries": [],
+                "cssText": "\r\n        display: none;\r\n    ",
+                "range": {
+                    "startLine": 459,
+                    "startColumn": 11,
+                    "endLine": 461,
+                    "endColumn": 4
+                }
+            },
+            "media": [{
+                "text": "(max-width: 1025px)",
+                "source": "mediaRule",
+                "sourceURL": "http://fronty.ru/main.css",
+                "range": {
+                    "startLine": 448,
+                    "startColumn": 7,
+                    "endLine": 448,
+                    "endColumn": 26
+                },
+                "styleSheetId": "14744.1",
+                "mediaList": [{
+                    "expressions": [{
+                        "value": 1025,
+                        "unit": "px",
+                        "feature": "max-width",
+                        "computedLength": 1025
+                    }],
+                    "active": true
+                }]
+            }]
+        },
+        "matchingSelectors": [0]
+    }, {
+        "rule": {
+            "styleSheetId": "14744.1",
+            "selectorList": {
+                "selectors": [{
+                    "text": ".list",
+                    "range": {
+                        "startLine": 489,
+                        "startColumn": 4,
+                        "endLine": 489,
+                        "endColumn": 9
+                    }
+                }, {
+                    "text": ".tab",
+                    "range": {
+                        "startLine": 490,
+                        "startColumn": 4,
+                        "endLine": 490,
+                        "endColumn": 8
+                    }
+                }],
+                "text": ".list, .tab"
+            },
+            "origin": "regular",
+            "style": {
+                "styleSheetId": "14744.1",
+                "cssProperties": [{
+                    "name": "flex-direction",
+                    "value": "column",
+                    "implicit": false,
+                    "text": "flex-direction: column;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 491,
+                        "startColumn": 8,
+                        "endLine": 491,
+                        "endColumn": 31
+                    }
+                }],
+                "shorthandEntries": [],
+                "cssText": "\r\n        flex-direction: column;\r\n    ",
+                "range": {
+                    "startLine": 490,
+                    "startColumn": 10,
+                    "endLine": 492,
+                    "endColumn": 4
+                }
+            },
+            "media": [{
+                "text": "(max-width: 1025px)",
+                "source": "mediaRule",
+                "sourceURL": "http://fronty.ru/main.css",
+                "range": {
+                    "startLine": 448,
+                    "startColumn": 7,
+                    "endLine": 448,
+                    "endColumn": 26
+                },
+                "styleSheetId": "14744.1",
+                "mediaList": [{
+                    "expressions": [{
+                        "value": 1025,
+                        "unit": "px",
+                        "feature": "max-width",
+                        "computedLength": 1025
+                    }],
+                    "active": true
+                }]
+            }]
+        },
+        "matchingSelectors": [0]
+    }, {
+        "rule": {
+            "styleSheetId": "14744.1",
+            "selectorList": {
+                "selectors": [{
+                    "text": ".list",
+                    "range": {
+                        "startLine": 539,
+                        "startColumn": 4,
+                        "endLine": 539,
+                        "endColumn": 9
+                    }
+                }],
+                "text": ".list"
+            },
+            "origin": "regular",
+            "style": {
+                "styleSheetId": "14744.1",
+                "cssProperties": [{
+                    "name": "display",
+                    "value": "none",
+                    "implicit": false,
+                    "text": "display: none;",
+                    "disabled": false,
+                    "range": {
+                        "startLine": 540,
+                        "startColumn": 8,
+                        "endLine": 540,
+                        "endColumn": 22
+                    }
+                }],
+                "shorthandEntries": [],
+                "cssText": "\r\n        display: none;\r\n    ",
+                "range": {
+                    "startLine": 539,
+                    "startColumn": 11,
+                    "endLine": 541,
+                    "endColumn": 4
+                }
+            },
+            "media": [{
+                "text": "(max-width: 800px)",
+                "source": "mediaRule",
+                "sourceURL": "http://fronty.ru/main.css",
+                "range": {
+                    "startLine": 534,
+                    "startColumn": 7,
+                    "endLine": 534,
+                    "endColumn": 25
+                },
+                "styleSheetId": "14744.1",
+                "mediaList": [{
+                    "expressions": [{
+                        "value": 800,
+                        "unit": "px",
+                        "feature": "max-width",
+                        "computedLength": 800
+                    }],
+                    "active": true
+                }]
+            }]
+        },
+        "matchingSelectors": [0]
+    }],
+    "pseudoElements": [],
+    "inherited": [{
+        "matchedCSSRules": [{
+            "rule": {
+                "selectorList": {
+                    "selectors": [{
+                        "text": "div"
+                    }],
+                    "text": "div"
+                },
+                "origin": "user-agent",
+                "style": {
+                    "cssProperties": [{
+                        "name": "display",
+                        "value": "block"
+                    }],
+                    "shorthandEntries": []
+                },
+                "media": []
+            },
+            "matchingSelectors": [0]
+        }, {
+            "rule": {
+                "styleSheetId": "14744.1",
+                "selectorList": {
+                    "selectors": [{
+                        "text": "*",
+                        "range": {
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 0,
+                            "endColumn": 1
+                        }
+                    }],
+                    "text": "*"
+                },
+                "origin": "regular",
+                "style": {
+                    "styleSheetId": "14744.1",
+                    "cssProperties": [{
+                        "name": "box-sizing",
+                        "value": "border-box",
+                        "implicit": false,
+                        "text": "box-sizing: border-box;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 1,
+                            "startColumn": 4,
+                            "endLine": 1,
+                            "endColumn": 27
+                        }
+                    }],
+                    "shorthandEntries": [],
+                    "cssText": "\r\n    box-sizing: border-box;\r\n",
+                    "range": {
+                        "startLine": 0,
+                        "startColumn": 3,
+                        "endLine": 2,
+                        "endColumn": 0
+                    }
+                },
+                "media": []
+            },
+            "matchingSelectors": [0]
+        }, {
+            "rule": {
+                "styleSheetId": "14744.1",
+                "selectorList": {
+                    "selectors": [{
+                        "text": ".rect-2",
+                        "range": {
+                            "startLine": 47,
+                            "startColumn": 0,
+                            "endLine": 47,
+                            "endColumn": 7
+                        }
+                    }],
+                    "text": ".rect-2"
+                },
+                "origin": "regular",
+                "style": {
+                    "styleSheetId": "14744.1",
+                    "cssProperties": [{
+                        "name": "box-shadow",
+                        "value": "0 0 8px rgba(0, 0, 0, 0.12),\r\n     0 -8px 8px rgba(0, 0, 0, 0.24)",
+                        "implicit": false,
+                        "text": "box-shadow: 0 0 8px rgba(0, 0, 0, 0.12),\r\n     0 -8px 8px rgba(0, 0, 0, 0.24);",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 48,
+                            "startColumn": 4,
+                            "endLine": 49,
+                            "endColumn": 36
+                        }
+                    }, {
+                        "name": "z-index",
+                        "value": "4",
+                        "implicit": false,
+                        "text": "z-index: 4;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 50,
+                            "startColumn": 4,
+                            "endLine": 50,
+                            "endColumn": 15
+                        }
+                    }, {
+                        "name": "background",
+                        "value": "#202020",
+                        "implicit": false,
+                        "text": "background: #202020;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 51,
+                            "startColumn": 4,
+                            "endLine": 51,
+                            "endColumn": 24
+                        }
+                    }, {
+                        "name": "display",
+                        "value": "block",
+                        "implicit": false,
+                        "text": "display: block;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 52,
+                            "startColumn": 4,
+                            "endLine": 52,
+                            "endColumn": 19
+                        }
+                    }, {
+                        "name": "width",
+                        "value": "100%",
+                        "implicit": false,
+                        "text": "width: 100%;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 53,
+                            "startColumn": 4,
+                            "endLine": 53,
+                            "endColumn": 16
+                        }
+                    }, {
+                        "name": "height",
+                        "value": "50vh",
+                        "implicit": false,
+                        "text": "height: 50vh;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 54,
+                            "startColumn": 4,
+                            "endLine": 54,
+                            "endColumn": 17
+                        }
+                    }, {
+                        "name": "margin-top",
+                        "value": "57vh",
+                        "implicit": false,
+                        "text": "margin-top: 57vh;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 55,
+                            "startColumn": 4,
+                            "endLine": 55,
+                            "endColumn": 21
+                        }
+                    }, {
+                        "name": "background-image",
+                        "value": "initial"
+                    }, {
+                        "name": "background-position-x",
+                        "value": "initial"
+                    }, {
+                        "name": "background-position-y",
+                        "value": "initial"
+                    }, {
+                        "name": "background-size",
+                        "value": "initial"
+                    }, {
+                        "name": "background-repeat-x",
+                        "value": "initial"
+                    }, {
+                        "name": "background-repeat-y",
+                        "value": "initial"
+                    }, {
+                        "name": "background-attachment",
+                        "value": "initial"
+                    }, {
+                        "name": "background-origin",
+                        "value": "initial"
+                    }, {
+                        "name": "background-clip",
+                        "value": "initial"
+                    }, {
+                        "name": "background-color",
+                        "value": "rgb(32, 32, 32)"
+                    }],
+                    "shorthandEntries": [{
+                        "name": "background",
+                        "value": "rgb(32, 32, 32)"
+                    }],
+                    "cssText": "\r\n    box-shadow: 0 0 8px rgba(0, 0, 0, 0.12),\r\n     0 -8px 8px rgba(0, 0, 0, 0.24);\r\n    z-index: 4;\r\n    background: #202020;\r\n    display: block;\r\n    width: 100%;\r\n    height: 50vh;\r\n    margin-top: 57vh;\r\n",
+                    "range": {
+                        "startLine": 47,
+                        "startColumn": 9,
+                        "endLine": 56,
+                        "endColumn": 0
+                    }
+                },
+                "media": []
+            },
+            "matchingSelectors": [0]
+        }, {
+            "rule": {
+                "styleSheetId": "14744.1",
+                "selectorList": {
+                    "selectors": [{
+                        "text": ".rect-2",
+                        "range": {
+                            "startLine": 399,
+                            "startColumn": 4,
+                            "endLine": 399,
+                            "endColumn": 11
+                        }
+                    }],
+                    "text": ".rect-2"
+                },
+                "origin": "regular",
+                "style": {
+                    "styleSheetId": "14744.1",
+                    "cssProperties": [{
+                        "name": "margin-top",
+                        "value": "40vh",
+                        "implicit": false,
+                        "text": "margin-top: 40vh;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 400,
+                            "startColumn": 8,
+                            "endLine": 400,
+                            "endColumn": 25
+                        }
+                    }, {
+                        "name": "height",
+                        "value": "70vh",
+                        "implicit": false,
+                        "text": "height: 70vh;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 401,
+                            "startColumn": 8,
+                            "endLine": 401,
+                            "endColumn": 21
+                        }
+                    }],
+                    "shorthandEntries": [],
+                    "cssText": "\r\n        margin-top: 40vh;\r\n        height: 70vh;\r\n    ",
+                    "range": {
+                        "startLine": 399,
+                        "startColumn": 13,
+                        "endLine": 402,
+                        "endColumn": 4
+                    }
+                },
+                "media": [{
+                    "text": "(max-width: 1690px)",
+                    "source": "mediaRule",
+                    "sourceURL": "http://fronty.ru/main.css",
+                    "range": {
+                        "startLine": 398,
+                        "startColumn": 7,
+                        "endLine": 398,
+                        "endColumn": 26
+                    },
+                    "styleSheetId": "14744.1",
+                    "mediaList": [{
+                        "expressions": [{
+                            "value": 1690,
+                            "unit": "px",
+                            "feature": "max-width",
+                            "computedLength": 1690
+                        }],
+                        "active": true
+                    }]
+                }]
+            },
+            "matchingSelectors": [0]
+        }, {
+            "rule": {
+                "styleSheetId": "14744.1",
+                "selectorList": {
+                    "selectors": [{
+                        "text": ".rect-2",
+                        "range": {
+                            "startLine": 471,
+                            "startColumn": 4,
+                            "endLine": 471,
+                            "endColumn": 11
+                        }
+                    }],
+                    "text": ".rect-2"
+                },
+                "origin": "regular",
+                "style": {
+                    "styleSheetId": "14744.1",
+                    "cssProperties": [{
+                        "name": "padding-top",
+                        "value": "40px",
+                        "implicit": false,
+                        "text": "padding-top: 40px;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 472,
+                            "startColumn": 8,
+                            "endLine": 472,
+                            "endColumn": 26
+                        }
+                    }, {
+                        "name": "height",
+                        "value": "auto",
+                        "implicit": false,
+                        "text": "height: auto;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 473,
+                            "startColumn": 8,
+                            "endLine": 473,
+                            "endColumn": 21
+                        }
+                    }],
+                    "shorthandEntries": [],
+                    "cssText": "\r\n        padding-top: 40px;\r\n        height: auto;\r\n    ",
+                    "range": {
+                        "startLine": 471,
+                        "startColumn": 13,
+                        "endLine": 474,
+                        "endColumn": 4
+                    }
+                },
+                "media": [{
+                    "text": "(max-width: 1025px)",
+                    "source": "mediaRule",
+                    "sourceURL": "http://fronty.ru/main.css",
+                    "range": {
+                        "startLine": 448,
+                        "startColumn": 7,
+                        "endLine": 448,
+                        "endColumn": 26
+                    },
+                    "styleSheetId": "14744.1",
+                    "mediaList": [{
+                        "expressions": [{
+                            "value": 1025,
+                            "unit": "px",
+                            "feature": "max-width",
+                            "computedLength": 1025
+                        }],
+                        "active": true
+                    }]
+                }]
+            },
+            "matchingSelectors": [0]
+        }, {
+            "rule": {
+                "styleSheetId": "14744.1",
+                "selectorList": {
+                    "selectors": [{
+                        "text": ".rect-2",
+                        "range": {
+                            "startLine": 542,
+                            "startColumn": 4,
+                            "endLine": 542,
+                            "endColumn": 11
+                        }
+                    }],
+                    "text": ".rect-2"
+                },
+                "origin": "regular",
+                "style": {
+                    "styleSheetId": "14744.1",
+                    "cssProperties": [{
+                        "name": "padding-top",
+                        "value": "40px",
+                        "implicit": false,
+                        "text": "padding-top: 40px;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 543,
+                            "startColumn": 8,
+                            "endLine": 543,
+                            "endColumn": 26
+                        }
+                    }],
+                    "shorthandEntries": [],
+                    "cssText": "\r\n        padding-top: 40px;\r\n    ",
+                    "range": {
+                        "startLine": 542,
+                        "startColumn": 13,
+                        "endLine": 544,
+                        "endColumn": 4
+                    }
+                },
+                "media": [{
+                    "text": "(max-width: 800px)",
+                    "source": "mediaRule",
+                    "sourceURL": "http://fronty.ru/main.css",
+                    "range": {
+                        "startLine": 534,
+                        "startColumn": 7,
+                        "endLine": 534,
+                        "endColumn": 25
+                    },
+                    "styleSheetId": "14744.1",
+                    "mediaList": [{
+                        "expressions": [{
+                            "value": 800,
+                            "unit": "px",
+                            "feature": "max-width",
+                            "computedLength": 800
+                        }],
+                        "active": true
+                    }]
+                }]
+            },
+            "matchingSelectors": [0]
+        }]
+    }, {
+        "matchedCSSRules": [{
+            "rule": {
+                "selectorList": {
+                    "selectors": [{
+                        "text": "body"
+                    }],
+                    "text": "body"
+                },
+                "origin": "user-agent",
+                "style": {
+                    "cssProperties": [{
+                        "name": "display",
+                        "value": "block"
+                    }, {
+                        "name": "margin-top",
+                        "value": "8px"
+                    }, {
+                        "name": "margin-right",
+                        "value": "8px"
+                    }, {
+                        "name": "margin-bottom",
+                        "value": "8px"
+                    }, {
+                        "name": "margin-left",
+                        "value": "8px"
+                    }],
+                    "shorthandEntries": [{
+                        "name": "margin",
+                        "value": "8px"
+                    }]
+                },
+                "media": []
+            },
+            "matchingSelectors": [0]
+        }, {
+            "rule": {
+                "styleSheetId": "14744.1",
+                "selectorList": {
+                    "selectors": [{
+                        "text": "*",
+                        "range": {
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 0,
+                            "endColumn": 1
+                        }
+                    }],
+                    "text": "*"
+                },
+                "origin": "regular",
+                "style": {
+                    "styleSheetId": "14744.1",
+                    "cssProperties": [{
+                        "name": "box-sizing",
+                        "value": "border-box",
+                        "implicit": false,
+                        "text": "box-sizing: border-box;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 1,
+                            "startColumn": 4,
+                            "endLine": 1,
+                            "endColumn": 27
+                        }
+                    }],
+                    "shorthandEntries": [],
+                    "cssText": "\r\n    box-sizing: border-box;\r\n",
+                    "range": {
+                        "startLine": 0,
+                        "startColumn": 3,
+                        "endLine": 2,
+                        "endColumn": 0
+                    }
+                },
+                "media": []
+            },
+            "matchingSelectors": [0]
+        }, {
+            "rule": {
+                "styleSheetId": "14744.1",
+                "selectorList": {
+                    "selectors": [{
+                        "text": "body",
+                        "range": {
+                            "startLine": 13,
+                            "startColumn": 0,
+                            "endLine": 13,
+                            "endColumn": 4
+                        }
+                    }],
+                    "text": "body"
+                },
+                "origin": "regular",
+                "style": {
+                    "styleSheetId": "14744.1",
+                    "cssProperties": [{
+                        "name": "background-color",
+                        "value": "#191919",
+                        "implicit": false,
+                        "text": "background-color: #191919;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 14,
+                            "startColumn": 4,
+                            "endLine": 14,
+                            "endColumn": 30
+                        }
+                    }, {
+                        "name": "padding",
+                        "value": "0",
+                        "implicit": false,
+                        "text": "padding: 0;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 15,
+                            "startColumn": 4,
+                            "endLine": 15,
+                            "endColumn": 15
+                        }
+                    }, {
+                        "name": "margin",
+                        "value": "0",
+                        "implicit": false,
+                        "text": "margin: 0;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 16,
+                            "startColumn": 4,
+                            "endLine": 16,
+                            "endColumn": 14
+                        }
+                    }, {
+                        "name": "overflow",
+                        "value": "hidden",
+                        "implicit": false,
+                        "text": "overflow: hidden;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 17,
+                            "startColumn": 4,
+                            "endLine": 17,
+                            "endColumn": 21
+                        }
+                    }, {
+                        "name": "position",
+                        "value": "relative",
+                        "implicit": false,
+                        "text": "position: relative;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 18,
+                            "startColumn": 4,
+                            "endLine": 18,
+                            "endColumn": 23
+                        }
+                    }, {
+                        "name": "transition",
+                        "value": "all .3s ease",
+                        "implicit": false,
+                        "text": "transition: all .3s ease;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 19,
+                            "startColumn": 4,
+                            "endLine": 19,
+                            "endColumn": 29
+                        }
+                    }, {
+                        "name": "padding-top",
+                        "value": "0px"
+                    }, {
+                        "name": "padding-right",
+                        "value": "0px"
+                    }, {
+                        "name": "padding-bottom",
+                        "value": "0px"
+                    }, {
+                        "name": "padding-left",
+                        "value": "0px"
+                    }, {
+                        "name": "margin-top",
+                        "value": "0px"
+                    }, {
+                        "name": "margin-right",
+                        "value": "0px"
+                    }, {
+                        "name": "margin-bottom",
+                        "value": "0px"
+                    }, {
+                        "name": "margin-left",
+                        "value": "0px"
+                    }, {
+                        "name": "overflow-x",
+                        "value": "hidden"
+                    }, {
+                        "name": "overflow-y",
+                        "value": "hidden"
+                    }, {
+                        "name": "transition-duration",
+                        "value": "0.3s"
+                    }, {
+                        "name": "transition-timing-function",
+                        "value": "ease"
+                    }, {
+                        "name": "transition-delay",
+                        "value": "initial"
+                    }, {
+                        "name": "transition-property",
+                        "value": "all"
+                    }],
+                    "shorthandEntries": [{
+                        "name": "padding",
+                        "value": "0px"
+                    }, {
+                        "name": "margin",
+                        "value": "0px"
+                    }, {
+                        "name": "overflow",
+                        "value": "hidden"
+                    }, {
+                        "name": "transition",
+                        "value": "all 0.3s ease"
+                    }],
+                    "cssText": "\r\n    background-color: #191919;\r\n    padding: 0;\r\n    margin: 0;\r\n    overflow: hidden;\r\n    position: relative;\r\n    transition: all .3s ease;\r\n",
+                    "range": {
+                        "startLine": 13,
+                        "startColumn": 6,
+                        "endLine": 20,
+                        "endColumn": 0
+                    }
+                },
+                "media": []
+            },
+            "matchingSelectors": [0]
+        }, {
+            "rule": {
+                "styleSheetId": "14744.1",
+                "selectorList": {
+                    "selectors": [{
+                        "text": "body",
+                        "range": {
+                            "startLine": 429,
+                            "startColumn": 4,
+                            "endLine": 429,
+                            "endColumn": 8
+                        }
+                    }],
+                    "text": "body"
+                },
+                "origin": "regular",
+                "style": {
+                    "styleSheetId": "14744.1",
+                    "cssProperties": [{
+                        "name": "overflow-y",
+                        "value": "scroll",
+                        "implicit": false,
+                        "text": "overflow-y: scroll;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 430,
+                            "startColumn": 8,
+                            "endLine": 430,
+                            "endColumn": 27
+                        }
+                    }],
+                    "shorthandEntries": [],
+                    "cssText": "\r\n        overflow-y: scroll;\r\n    ",
+                    "range": {
+                        "startLine": 429,
+                        "startColumn": 10,
+                        "endLine": 431,
+                        "endColumn": 4
+                    }
+                },
+                "media": [{
+                    "text": "(max-width: 1367px)",
+                    "source": "mediaRule",
+                    "sourceURL": "http://fronty.ru/main.css",
+                    "range": {
+                        "startLine": 418,
+                        "startColumn": 7,
+                        "endLine": 418,
+                        "endColumn": 26
+                    },
+                    "styleSheetId": "14744.1",
+                    "mediaList": [{
+                        "expressions": [{
+                            "value": 1367,
+                            "unit": "px",
+                            "feature": "max-width",
+                            "computedLength": 1367
+                        }],
+                        "active": true
+                    }]
+                }]
+            },
+            "matchingSelectors": [0]
+        }, {
+            "rule": {
+                "styleSheetId": "14744.1",
+                "selectorList": {
+                    "selectors": [{
+                        "text": "body",
+                        "range": {
+                            "startLine": 475,
+                            "startColumn": 4,
+                            "endLine": 475,
+                            "endColumn": 8
+                        }
+                    }],
+                    "text": "body"
+                },
+                "origin": "regular",
+                "style": {
+                    "styleSheetId": "14744.1",
+                    "cssProperties": [{
+                        "name": "overflow-y",
+                        "value": "scroll",
+                        "implicit": false,
+                        "text": "overflow-y: scroll;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 476,
+                            "startColumn": 8,
+                            "endLine": 476,
+                            "endColumn": 27
+                        }
+                    }],
+                    "shorthandEntries": [],
+                    "cssText": "\r\n        overflow-y: scroll;\r\n    ",
+                    "range": {
+                        "startLine": 475,
+                        "startColumn": 10,
+                        "endLine": 477,
+                        "endColumn": 4
+                    }
+                },
+                "media": [{
+                    "text": "(max-width: 1025px)",
+                    "source": "mediaRule",
+                    "sourceURL": "http://fronty.ru/main.css",
+                    "range": {
+                        "startLine": 448,
+                        "startColumn": 7,
+                        "endLine": 448,
+                        "endColumn": 26
+                    },
+                    "styleSheetId": "14744.1",
+                    "mediaList": [{
+                        "expressions": [{
+                            "value": 1025,
+                            "unit": "px",
+                            "feature": "max-width",
+                            "computedLength": 1025
+                        }],
+                        "active": true
+                    }]
+                }]
+            },
+            "matchingSelectors": [0]
+        }]
+    }, {
+        "matchedCSSRules": [{
+            "rule": {
+                "selectorList": {
+                    "selectors": [{
+                        "text": "html"
+                    }],
+                    "text": "html"
+                },
+                "origin": "user-agent",
+                "style": {
+                    "cssProperties": [{
+                        "name": "display",
+                        "value": "block"
+                    }],
+                    "shorthandEntries": []
+                },
+                "media": []
+            },
+            "matchingSelectors": [0]
+        }, {
+            "rule": {
+                "styleSheetId": "14744.1",
+                "selectorList": {
+                    "selectors": [{
+                        "text": "*",
+                        "range": {
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 0,
+                            "endColumn": 1
+                        }
+                    }],
+                    "text": "*"
+                },
+                "origin": "regular",
+                "style": {
+                    "styleSheetId": "14744.1",
+                    "cssProperties": [{
+                        "name": "box-sizing",
+                        "value": "border-box",
+                        "implicit": false,
+                        "text": "box-sizing: border-box;",
+                        "disabled": false,
+                        "range": {
+                            "startLine": 1,
+                            "startColumn": 4,
+                            "endLine": 1,
+                            "endColumn": 27
+                        }
+                    }],
+                    "shorthandEntries": [],
+                    "cssText": "\r\n    box-sizing: border-box;\r\n",
+                    "range": {
+                        "startLine": 0,
+                        "startColumn": 3,
+                        "endLine": 2,
+                        "endColumn": 0
+                    }
+                },
+                "media": []
+            },
+            "matchingSelectors": [0]
+        }]
+    }],
+    "cssKeyframesRules": []
+}
